@@ -1,19 +1,19 @@
 
 ## Hello, World
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-👋Hi there I'm Vikash Singh, working as Sr Software Engineer at Optum Global Solution. Based in the Capital of India, New Delhi
+👋Hi there I'm Vikash Singh,  Sr Software Engineer. looking to solve real-world problems🌏. I'm passionate about making open-source more accessible, creating software💻 and tools to help people, and building a community. 
 
-## Skill Set
+## Professional Skillset
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-👋Hi there I'm Vikash Singh, working as Sr Software Engineer at Optum Global Solution. Based in the Capital of India New Delhi
-   🟦 JAVA   🟦 Go  🟦 JS 🟦SpringBoot 🟦 SQL
+   🟦 JAVA   🟦 Go      🟦 JavaScript   🟦 SpringBoot 
+   🟦 SQL    🟦 React   🟦 DevOps       🟦 Azure Cloud  
 
 ## Professional Journey
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 1.Optum Global Solution (2022 - Present) 
-   Sr Software Engineer
-Full stack developer with 5 years experience leading both front-end and backend development along with the DevOps tasks such as recently integrated Azure services with Spring boot application.
+## 1. Optum Global Solution (2022 - Present) 
+👨‍💻 Sr Software Engineer <br>
+Full stack developer with 5 years of experience leading both front-end and back-end development along with the DevOps tasks such as recently integrated Azure services with Spring boot application.
 
 ### 2. Tata Consultancy Service Ltd (2018 - 2022)
-   System Engineer
+👨‍💻 System Engineer<br>
 Worked as a Java developer in an Income Tax project where I designed, developed, and deployed major features of income tax. These features are currently being used by more than 20K Income Tax Officials.
